@@ -1,0 +1,8 @@
+{
+  "name": "thalassa-weddings",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "build": "bun run build.ts" },
+  "dependencies": { "react": "^19.2.0", "react-dom": "^19.2.0", "react-icons": "^5.5.0" }
+}
